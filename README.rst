@@ -1,3 +1,7 @@
+
+.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.3937500.svg
+   :target: https://doi.org/10.5281/zenodo.3937500
+
 This repository contains data that was used for publishing article
 called `Modelling of Stably Stratified Atmospheric Boundary Layers with
 Varying Stratifications <https://doi.org/10.1007/s10546-020-00527-8>`_.
