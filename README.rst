@@ -1,17 +1,11 @@
-=======================================================================================
-Modelling of Stably Stratified Atmospheric Boundary Layers with Varying Stratifications
-=======================================================================================
-
-*Velibor Želi*, *Geert Brethouwer*, *Stefan Wallin*, and *Arne V. Johansson*
-
 This repository contains data that was used for publishing article
 called `Modelling of Stably Stratified Atmospheric Boundary Layers with
 Varying Stratifications <https://doi.org/10.1007/s10546-020-00527-8>`_.
 The repository compliments the publication in the sense that it provides
 qualitative insight for comparison and exploration.
 
-**Keywords:** GABLS1, Reynolds-stress model, Scaling law,
-Stably-stratified atmosphere, Turbulence parametrization
+**Keywords**: GABLS1, Open data, Stably-stratified turbulence,
+Turbulence parametrization, 
 
 Data Structure
 ==============
@@ -50,7 +44,7 @@ Simulations:
 
 * cooling rate at the surface 1.0 Kelvin per hour -> ``cr1``
 
-Note: The results presented in the repository are taken after the ninth
-hour of the simulation while the results in the published paper is
+**Note**: The results presented in the repository are taken after the
+ninth hour of the simulation while the results in the published paper is
 averaged between the eight and ninth hour. This difference should be
 negligible.
